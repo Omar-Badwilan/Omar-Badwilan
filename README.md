@@ -8,7 +8,7 @@ I'm a third-year Computer Science student at Cairo University with a strong foun
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [badwilanomar@gmail.com](mailto:badwilanomar@gmail.com)
-* 🧠  I'm learning .NET Framework
+* 🧠  I'm learning .NET Framework & React
 
 ### Skills
 
