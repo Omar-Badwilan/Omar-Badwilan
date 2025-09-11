@@ -32,17 +32,12 @@ I'm a Senior Computer Science student at Cairo University with a strong foundati
 ### Socials
 
 <p align="left">
-  <!-- GitHub White -->
-  <a href="https://github.com/Omar-Badwilan" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="32" height="32" alt="GitHub"/>
-  </a>
 
-  <!-- LinkedIn Blue -->
+
   <a href="https://www.linkedin.com/in/omar-ahmed-1baaba248/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32" height="32" alt="LinkedIn"/>
   </a>
 
-  <!-- Gmail -->
   <a href="mailto:badwilanomar@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32" height="32" alt="Email"/>
   </a>
