@@ -26,7 +26,23 @@ I'm a third-year Computer Science student at Cairo University with a strong foun
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Omar-Badwilan/CommandLineInerpretur-CLI-" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Badwilan&repo=CommandLineInerpretur-CLI-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Omar-Badwilan/SpringBoot_learningMangementSystem" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Badwilan&repo=SpringBoot_learningMangementSystem&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### Badges
 
+**Top Repositories**
 
-<div width="100%" align="center"><a href="https://github.com/Omar-Badwilan/CPU-Schedulers-Simulator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Badwilan&repo=CPU-Schedulers-Simulator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Omar-Badwilan/Examination-System" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Badwilan&repo=Examination-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center">
+  <a href="https://github.com/Omar-Badwilan/CompanySystemManager" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Badwilan&repo=CompanySystemManager&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/Omar-Badwilan/SpringBoot_learningMangementSystem" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Badwilan&repo=SpringBoot_learningMangementSystem&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+<br /><br /><br /><br /><br /><br /><br />
+
+<div width="100%" align="center">
+  <a href="https://github.com/Omar-Badwilan/Examination-System" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Badwilan&repo=Examination-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
