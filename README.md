@@ -4,7 +4,7 @@ Hi I'm Omar
 Software Engineer
 -----------------
 
-I'm a third-year Computer Science student at Cairo University with a strong foundation in software development. My expertise includes OOP, Data Structures, Algorithms, Databases, and Design Patterns, with hands-on experience in Git, GitHub, and backend development using .NET (C#) and Spring Boot (Java). I’m passionate about building scalable solutions and continuously expanding my skills. 🚀
+I'm a Senior Computer Science student at Cairo University with a strong foundation in software development. My expertise includes OOP, Data Structures, Algorithms, Databases, and Design Patterns, with hands-on experience in Git, GitHub, and backend development using .NET (C#) and Spring Boot (Java). I’m passionate about building scalable solutions and continuously expanding my skills. 🚀
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [badwilanomar@gmail.com](mailto:badwilanomar@gmail.com)
