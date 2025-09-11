@@ -20,16 +20,22 @@ I'm a Senior Computer Science student at Cairo University with a strong foundati
 ### Socials
 
 <p align="left">
+
   <a href="https://github.com/Omar-Badwilan" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="32" height="32" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="32" height="32" alt="GitHub" style="filter: invert(100%);"/>
   </a>
+  
+
   <a href="https://www.linkedin.com/in/omar-ahmed-1baaba248/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="32" height="32" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" style="fill:#0A66C2"/>
   </a>
+  
+
   <a href="mailto:badwilanomar@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32" height="32" alt="Email"/>
   </a>
 </p>
+
 
 
 
