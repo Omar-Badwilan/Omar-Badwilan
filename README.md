@@ -1,4 +1,4 @@
-Hi I'm Omar
+<img width="358" height="116" alt="image" src="https://github.com/user-attachments/assets/76706479-7106-4006-898d-2a694fe9d20e" />Hi I'm Omar
 ============================================================================================================================
 
 Software Engineer
@@ -27,9 +27,10 @@ I'm a Senior Computer Science student at Cairo University with a strong foundati
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-colored.svg" width="32" height="32" alt="LinkedIn"/>
   </a>
   <a href="mailto:badwilanomar@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail-colored.svg" width="32" height="32" alt="Email"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32" height="32" alt="Email"/>
   </a>
 </p>
+
 
 
 
