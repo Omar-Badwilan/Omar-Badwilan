@@ -1,5 +1,4 @@
 # Hi I'm Omar
-![Header Image](https://github.com/user-attachments/assets/76706479-7106-4006-898d-2a694fe9d20e)
 
 ## Software Engineer
 
