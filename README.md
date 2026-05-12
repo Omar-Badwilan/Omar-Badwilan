@@ -1,5 +1,6 @@
 # Omar Ahmed
-Software Engineer & Generative AI Engineer<br>I'm a Computer Science student at Cairo University with a strong foundation in software engineering, backend development, and Generative AI. My expertise includes OOP, Data Structures & Algorithms, Design Patterns, REST APIs, and scalable backend architecture, with hands-on experience using ASP.NET Core, Node.js, Spring Boot, and SQL databases. I also work with Transformers, LangChain, RAG pipelines, and LLM integrations to build AI-powered applications and real-time systems. 🚀<br><br>🌍 I'm based in Egypt<br>✉️ You can contact me at badwilanomar@gmail.com<br><br>🧠 I'm learning advanced LLM systems, distributed backend architecture, and cloud technologies
+## Software Engineer & Generative AI Engineer<br>
+I'm a Computer Science student at Cairo University with a strong foundation in software engineering, backend development, and Generative AI. My expertise includes OOP, Data Structures & Algorithms, Design Patterns, REST APIs, and scalable backend architecture, with hands-on experience using ASP.NET Core, Node.js, Spring Boot, and SQL databases. I also work with Transformers, LangChain, RAG pipelines, and LLM integrations to build AI-powered applications and real-time systems. 🚀<br><br>🌍 I'm based in Egypt<br>✉️ You can contact me at badwilanomar@gmail.com<br><br>🧠 I'm learning advanced LLM systems, distributed backend architecture, and cloud technologies
 
 
 ## 🌐 Socials:
